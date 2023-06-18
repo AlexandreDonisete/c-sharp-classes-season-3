@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\bin\Debug\Exercice_Coordinate.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\bin\Debug\Exercice_Coordinate.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\bin\Debug\Exercice_Coordinate.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\obj\Debug\Exercice_Coordinate.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\obj\Debug\Exercice_Coordinate.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\obj\Debug\Exercice_Coordinate.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\obj\Debug\Exercice_Coordinate.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Coordinate\obj\Debug\Exercice_Coordinate.pdb

@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\bin\Debug\Exercice_Fuel.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\bin\Debug\Exercice_Fuel.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\bin\Debug\Exercice_Fuel.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\obj\Debug\Exercice_Fuel.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\obj\Debug\Exercice_Fuel.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\obj\Debug\Exercice_Fuel.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\obj\Debug\Exercice_Fuel.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Fuel\obj\Debug\Exercice_Fuel.pdb

@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\obj\Debug\Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Bhaskara\obj\Debug\Bhaskara.pdb

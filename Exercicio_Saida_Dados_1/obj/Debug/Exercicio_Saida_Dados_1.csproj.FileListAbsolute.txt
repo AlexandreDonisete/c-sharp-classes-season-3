@@ -1,8 +1,0 @@
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\bin\Debug\Exercicio_Saida_Dados_1.exe.config
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\bin\Debug\Exercicio_Saida_Dados_1.exe
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\bin\Debug\Exercicio_Saida_Dados_1.pdb
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\obj\Debug\Exercicio_Saida_Dados_1.csproj.AssemblyReference.cache
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\obj\Debug\Exercicio_Saida_Dados_1.csproj.SuggestedBindingRedirects.cache
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\obj\Debug\Exercicio_Saida_Dados_1.csproj.CoreCompileInputs.cache
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\obj\Debug\Exercicio_Saida_Dados_1.exe
-C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercicio_Saida_Dados_1\obj\Debug\Exercicio_Saida_Dados_1.pdb

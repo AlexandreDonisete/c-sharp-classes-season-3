@@ -1,0 +1,16 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.pdb
+C:\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.exe
+C:\Curso C#\Seção 3\Funcoes\obj\Debug\Funcoes.pdb
+C:\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.exe
+C:\Curso C#\Seção 3\Funcoes\bin\Debug\Funcoes.pdb

@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\bin\Debug\Estrutura_While.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\bin\Debug\Estrutura_While.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\bin\Debug\Estrutura_While.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\obj\Debug\Estrutura_While.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\obj\Debug\Estrutura_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\obj\Debug\Estrutura_While.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\obj\Debug\Estrutura_While.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Estrutura_While\obj\Debug\Estrutura_While.pdb

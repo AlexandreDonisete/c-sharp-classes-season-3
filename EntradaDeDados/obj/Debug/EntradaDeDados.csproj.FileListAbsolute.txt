@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\EntradaDeDados\obj\Debug\EntradaDeDados.pdb

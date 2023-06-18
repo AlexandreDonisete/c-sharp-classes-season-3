@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício_Entrada_De_Dados", "Exercício_Entrada_De_Dados.csproj", "{D6A9AB0C-7C92-4865-8F02-880BAE31DE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A9AB0C-7C92-4865-8F02-880BAE31DE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A9AB0C-7C92-4865-8F02-880BAE31DE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A9AB0C-7C92-4865-8F02-880BAE31DE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A9AB0C-7C92-4865-8F02-880BAE31DE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4417C1-9444-492B-A45D-C35603153447}
+	EndGlobalSection
+EndGlobal

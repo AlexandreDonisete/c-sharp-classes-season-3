@@ -1,0 +1,8 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\bin\Debug\Exercice_Estrutura_For.exe.config
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\bin\Debug\Exercice_Estrutura_For.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\bin\Debug\Exercice_Estrutura_For.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\obj\Debug\Exercice_Estrutura_For.csproj.AssemblyReference.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\obj\Debug\Exercice_Estrutura_For.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\obj\Debug\Exercice_Estrutura_For.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\obj\Debug\Exercice_Estrutura_For.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Seção 3\Exercice_Estrutura_For\obj\Debug\Exercice_Estrutura_For.pdb
